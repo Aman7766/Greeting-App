@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Greetings App</string>
+    <string name="app_name1">The Greetings App</string>
+    <string name="hint">Please Enter Your Name Here</string>
+    <string name="show">Show</string>
+
+</resources>
