@@ -1,4 +1,4 @@
- <h1>NestedScrollView Andorid</h1>
+ <h1>>Greeting App</h1>
   <p>
         This repository contains the source code for the Android app <strong>Greeting App</strong>.
     </p>
